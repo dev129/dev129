@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning.
 - 📫 How to reach me via instagram : devanshvishwa
 -                         snapchat : devansh_vishwa
--                         Linked in:
+-                         Linked in: https://www.linkedin.com/in/devansh-vishwa-1baa34212/
 
 <!---
 dev129/dev129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
