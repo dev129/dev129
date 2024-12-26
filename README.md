@@ -51,7 +51,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=dev129&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### GSSOC 2k24 Contributions
+### GSSOC 2k24 Badges
 
 <div>	
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
